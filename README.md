@@ -1,2 +1,2 @@
-# my-repo
-aim the best
+# GitEcommerce
+ecommerce project
